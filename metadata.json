@@ -1,0 +1,5 @@
+{
+  "name": "Gearbox Design Studio",
+  "description": "A professional 2D vector-based gearbox design interface. Construct mechanical assemblies using gears, shafts, and bearings on an interactive SVG grid canvas.",
+  "requestFramePermissions": []
+}
